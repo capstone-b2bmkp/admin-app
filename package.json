@@ -1,7 +1,7 @@
 {
-  "name": "frontend-b2b-mkp",
+  "name": "admin-app",
   "version": "0.1.0",
-  "description": "Capstone Frontend B2B Marketplace",
+  "description": "Capstone Frontend Admin",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
