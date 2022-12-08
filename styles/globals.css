@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+  font-family: 'Nunito Bold';
+  src: url('./../public/fonts/Nunito/Nunito-Bold.ttf');
+}
+
+@font-face{
+  font-family: 'Nunito Semibold';
+  src: url('./../public/fonts/Nunito/Nunito-SemiBold.ttf');
+}
+
+@font-face{
+  font-family: 'Nunito Regular';
+  src: url('./../public/fonts/Nunito/Nunito-Medium.ttf');
+}
+
+@font-face{
+  font-family: 'Nunito Sans';
+  src: url('./../public/fonts/NunitoSans/NunitoSans-Bold.ttf');
+}
+
+@font-face{
+  font-family: 'Manguiera Semibold';
+  src: url('./../public/fonts/Manguiera/Manguiera-SemiBold.otf');
+}
+
+.font-nunito-sans{
+  font-family: 'Nunito Sans';
+}
+
+.font-nunito-bold{
+  font-family: 'Nunito Bold';
+}
+
+.font-nunito-semibold{
+  font-family: 'Nunito Semibold';
+}
+
+.font-nunito-regular{
+  font-family: 'Nunito Regular';
+}
+
+.font-manguiera{
+  font-family: 'Manguiera Semibold';
+}
+
+.text-cyan-q{
+  color: #2FC4ED;
+}
